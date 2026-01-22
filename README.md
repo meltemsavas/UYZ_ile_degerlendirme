@@ -24,3 +24,12 @@ Amaç, katılımcıların **aynı öğrenci ürünlerini** değerlendirerek yapa
 
 ---
 
+## Teknik Alt Yapı İhtiyaçları
+
+- **Magicschool kullanımı**
+  - https://www.magicschool.ai/ adresini tarayıcınıza kopyalayın.
+  - An Educator (+18) seçeneği ile eğitmen hesabı oluşturun.
+    
+- **Brisk.ai kullanımı**
+  -https://www.briskteaching.com/?r=0 adresini tarayıcınıza kopyalayın.
+  -https://chromewebstore.google.com/detail/brisk-teaching-%E2%80%93-ai-assis/pcblbflgdkdfdjpjifeppkljdnaekohj?pli=1 linkini kullanarak Brisk uygulamasının chrome eklentisini ekleyin. 
