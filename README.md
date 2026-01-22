@@ -14,7 +14,7 @@ Amaç, katılımcıların **aynı öğrenci ürünlerini** değerlendirerek yapa
   - `Ürün 2` — Deney raporu (yüzey alanı ve hava akımı)
   - `Ürün 3` — Açık uçlu soru (basınç ve kaynama)
 
-- **Ortak Rubrik**
+- **Rubrik_ornegi**
   - 4 kriter x 4 düzey (Bilimsel doğruluk, Akıl yürütme, Kanıt/örnek, Açıklık & bilimsel dil)
 
 - **Prompt Paketi**
