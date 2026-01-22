@@ -10,9 +10,9 @@ Amaç, katılımcıların **aynı öğrenci ürünlerini** değerlendirerek yapa
 ## İçerik
 
 - **Öğrenci Ürünleri (Ortak Metinler)** → `öğrenci ürünleri/`
-  - `ürün 1` — Kısa yanıt (buharlaşma–kaynama)
-  - `ürün 2` — Deney raporu (yüzey alanı ve hava akımı)
-  - `ürün 3` — Açık uçlu soru (basınç ve kaynama)
+  - `Ürün 1` — Kısa yanıt (buharlaşma–kaynama)
+  - `Ürün 2` — Deney raporu (yüzey alanı ve hava akımı)
+  - `Ürün 3` — Açık uçlu soru (basınç ve kaynama)
 
 - **Ortak Rubrik**
   - 4 kriter x 4 düzey (Bilimsel doğruluk, Akıl yürütme, Kanıt/örnek, Açıklık & bilimsel dil)
