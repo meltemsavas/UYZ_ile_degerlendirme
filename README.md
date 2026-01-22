@@ -31,5 +31,5 @@ Amaç, katılımcıların **aynı öğrenci ürünlerini** değerlendirerek yapa
   - An Educator (+18) seçeneği ile eğitmen hesabı oluşturun.
     
 - **Brisk.ai kullanımı**
-  -https://www.briskteaching.com/?r=0 adresini tarayıcınıza kopyalayın.
-  -https://chromewebstore.google.com/detail/brisk-teaching-%E2%80%93-ai-assis/pcblbflgdkdfdjpjifeppkljdnaekohj?pli=1 linkini kullanarak Brisk uygulamasının chrome eklentisini ekleyin. 
+  - https://www.briskteaching.com/?r=0 adresini tarayıcınıza kopyalayın.
+  - https://chromewebstore.google.com/detail/brisk-teaching-%E2%80%93-ai-assis/pcblbflgdkdfdjpjifeppkljdnaekohj?pli=1 linkini kullanarak Brisk uygulamasının chrome eklentisini ekleyin. 
